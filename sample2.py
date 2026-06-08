@@ -1,5 +1,5 @@
-def double(x, y):
-    return x * y
+def double(x, y, z):
+    return x * y * z
 
 
-print(double(10, 3))  # Output: 30
+print(double(10, 3, 2))  # Output: 60
